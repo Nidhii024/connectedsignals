@@ -3,8 +3,5 @@
   "devCommand": "npm run dev",
   "installCommand": "npm install",
   "framework": "vite",
-  "outputDirectory": "dist",
-  "env": {
-    "VITE_SOME_SECRET_TOKEN": "@vite_some_secret_token"
-  }
+  "outputDirectory": "dist"
 }
